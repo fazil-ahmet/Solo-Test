@@ -26,7 +26,7 @@ public class SoloTestGame extends JFrame {
             }
         }
 
-        // Initialize the board with pegs
+        
         initializeBoard();
     }
 
